@@ -37,7 +37,7 @@ I believe strongly in **knowledge-sharing** and community collaboration.
 [![My Skills](https://skillicons.dev/icons?i=py,bash)](https://skillicons.dev)
 * Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,vscode)](https://skillicons.dev)
 * OS
 
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,windows)](https://skillicons.dev)
