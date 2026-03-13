@@ -1,6 +1,6 @@
 # Hi, I’m Clement
 
-**Technical Director** (TD) working at the intersection of 3D art and technical development. I enjoy deconstructing complex problems and building tools that make production workflows smoother and more efficient.
+**Technical Director** (TD). I enjoy deconstructing complex problems and building tools that make production workflows smoother and more efficient.
 
 ---
 
