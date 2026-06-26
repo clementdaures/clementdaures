@@ -1,10 +1,5 @@
 # Hi, I’m Clement
 
-**Technical Director** (TD). I enjoy deconstructing complex problems and building tools that make production workflows smoother and more efficient.
-
----
-
-### Current Focus
 A big part of my work revolves around **pipeline frameworks, procedural and modular workflows, and rigging systems**. I enjoy exploring how technical solutions can support artists and make the creative process more flexible.
 
 I believe strongly in **knowledge-sharing** and community collaboration.
