@@ -36,5 +36,3 @@ I believe strongly in **knowledge-sharing** and community collaboration.
 * OS
 
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,windows)](https://skillicons.dev)
----
-*Learning, building, and sharing.*
