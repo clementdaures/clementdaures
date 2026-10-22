@@ -5,7 +5,7 @@
 
 <br/>
 
-I build software tools and pipeline infrastructure for animation & VFX.
+I build open source tools and pipeline infrastructure for animation & VFX.
 
 ---
 
