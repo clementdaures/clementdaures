@@ -7,7 +7,7 @@
 
 I build software tools and pipeline infrastructure for animation & VFX.
 
-...
+###
 ---
 
 ### Projects
@@ -17,7 +17,7 @@ I build software tools and pipeline infrastructure for animation & VFX.
 - **[Atlas Manager](https://github.com/clementdaures/atlas_manager)** — Project management and automation tool. **Fork of [Tik Manager](https://github.com/masqu3rad3/tik_manager4)** by masquer3d3, introducing new features, specifically in USD management.
 - **[Atlas Sculptor](https://github.com/clementdaures/atlas_sculptor)** — Maya tool for sculpting, smoothing, and correcting animated geometry caches.
 
-...
+###
 ---
 
 ### Contact
